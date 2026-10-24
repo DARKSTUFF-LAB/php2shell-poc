@@ -88,7 +88,7 @@ Pre-built IDS / WAF / SIEM rules in [`detection/`](detection/):
 ## Quick Start
 
 ```bash
-git clone https://github.com/ikow/php2shell-poc.git && cd php2shell-poc
+git clone https://github.com/DARKSTUFF-LAB/php2shell-poc.git && cd php2shell-poc-main
 
 # Start the lab (PHP-FPM + nginx + Apache mod_php)
 cd lab && docker compose up -d
